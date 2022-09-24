@@ -1,0 +1,12 @@
+h1 {
+  text-align: center;
+  color: rgb(109, 109, 74);
+}
+p {
+  color: brown;
+  text-align: center;
+}
+a:link {
+  text-decoration: none;
+  color: rgb(84, 18, 18);
+}
